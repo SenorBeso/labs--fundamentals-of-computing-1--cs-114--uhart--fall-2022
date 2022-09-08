@@ -6,7 +6,7 @@ public class errors
 {
 public static void main (String[] args)
 {
-String Name; / Name of the user
+String Name; // Name of the user
 int number;
 int numSq;
 Scanner scan = new Scanner(System.in);
