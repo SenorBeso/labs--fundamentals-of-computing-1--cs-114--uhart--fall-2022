@@ -10,7 +10,7 @@ String Name; // Name of the user
 int number;
 int numSq;
 Scanner scan = new Scanner(System.in);
-System.out.print ("Enter your name, please: ")
+System.out.print ("Enter your name, please: ");
 Name = scan.nextInt();
 System.out.print ("What is your favorite number?);
 number = scan.nextInt();
